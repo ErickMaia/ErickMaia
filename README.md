@@ -6,8 +6,6 @@
 
 🧮 Backend: .NET Core
 
-![ErickMaia Status](https://github-readme-stats.vercel.app/api?username=ErickMaia&show_icons=true&count_private=true&theme=dark&include_all_commits=true)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMaia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
