@@ -8,7 +8,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickMaia&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center"> 
+<p> 
   Total visitors<br>
   <img src="https://profile-counter.glitch.me/ErickMaia/count.svg" />
 </p>
