@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 
 ### Hello, world. 
 
-📚 I'm currently learning web development
+I'm a professional software developer since 2018, and a graduate technologist in systems analysis and development. 
 
-🖥️ Frontend: Angular
+🎨 Frontend: Angular
 
 🧮 Backend: .NET
+
+💾 Database: MS-SQL (SQL Server) and MySQL
+
+🖥 Desktop: VB6, VB.NET and C# Windows Forms
