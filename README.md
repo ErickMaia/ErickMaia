@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 ### Hello, world. 
 
-I'm a professional software developer since 2018, and a graduate technologist in systems analysis and development. 
+I'm a professional software developer since 2018. 
+Technologist Degree in Systems Analysis and Development. 
 
 🎨 Frontend: Angular
 
