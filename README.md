@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Hello, world. 
 
 I'm a professional software developer since 2018. 
+
 Technologist Degree in Systems Analysis and Development. 
 
 🎨 Frontend: Angular
